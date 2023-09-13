@@ -8,3 +8,6 @@ Movalytics is a movie company that is currently facing challenges with their ope
 <br></br>
 
 ## Project Pipeline: </b>
+
+![pipeline](https://github.com/marwanx216/Potentia-Project/assets/114296605/69787fa2-2c62-4bcc-be21-690d7f464661)
+
